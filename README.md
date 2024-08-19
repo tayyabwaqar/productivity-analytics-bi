@@ -58,7 +58,9 @@ To run this application locally, follow these steps:
 
 ## Usage
 
-    To run the Streamlit app, use the following command:
+To run the Streamlit app, use the following command:
+
+   
     ```bash
     streamlit run app.py
 
